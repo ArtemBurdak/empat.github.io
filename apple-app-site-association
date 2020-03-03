@@ -2,7 +2,7 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "H7542S4LNU.com.empat.ObimyZ",
+            "appID": ["H7542S4LNU.com.empat.ObimyZ"],
             "paths": ["*"]
         }]
     }
